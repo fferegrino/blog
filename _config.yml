@@ -1,0 +1,29 @@
+# Site settings
+title: Antonio Feregrino
+email: antonio.feregrino@hotmail.es
+description: > # this means to ignore newlines until "baseurl:"
+  Soy un desarrollador de software que trata de escribir cosas no técnicas en este blog. Bueno, esto es algo técnico: no sé nada de Jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.fferegrino.org" # the base hostname & protocol for your site
+twitter_username: io_exception
+github_username: fferegrino
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts" # previously `page` in Jekyll 2.2.
+    values:
+      author: Antonio Feregrino
+  -
+    scope:
+      path: ""
+      type: "drafts" # previously `page` in Jekyll 2.2.
+    values:
+      author: Antonio Feregrino
+      
