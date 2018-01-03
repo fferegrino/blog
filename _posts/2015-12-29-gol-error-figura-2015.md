@@ -3,7 +3,7 @@ layout: post
 title: Gol, error y figura 2015
 date: 2015-12-30 21:00:00
 categories: milestone
-author: Antonio Feregrino Bolaños
+author: Antonio Feregrino
 excerpt: Creo que para mi eso del año nuevo es solo un día más... nada especial pasa, pero en lo particular a mi me gustan este tipo de resúmenes anuales, solo que esta vez quiero hacerlo de manera diferente, así que este año les traigo mi "Gol, error y figura" del 2015.
 ---  
 Creo que para mi eso del año nuevo es solo un día más... nada especial pasa, pero en lo particular a mi me gustan este tipo de resúmenes anuales, solo que esta vez quiero hacerlo de manera diferente, así que este año les traigo mi "Gol, error y figura"[^1] del 2015:  

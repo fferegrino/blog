@@ -3,7 +3,7 @@ layout: post
 title:  No me siento ingeniero
 date:   2015-07-20 19:16:54
 categories: escuela
-author: Antonio Feregrino Bolaños
+author: Antonio Feregrino
 
 description: En realidad yo no siento que sea un gran logro convertirme en ingeniero, para mi era solo cuestión de tiempo, tenía la seguridad de que nada de lo que hiciera iba a cambiar el hecho de que tarde o temprano me graduaría.
 excerpt: En realidad yo no siento que sea un gran logro convertirme en ingeniero, para mi era solo cuestión de tiempo, tenía la seguridad de que nada de lo que hiciera iba a cambiar el hecho de que tarde o temprano me graduaría.

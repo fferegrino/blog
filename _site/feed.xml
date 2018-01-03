@@ -4,19 +4,65 @@
     <title>Antonio Feregrino</title>
     <description>Soy un desarrollador de software que trata de escribir cosas no técnicas en este blog. Bueno, esto es algo técnico: no sé nada de Jekyll.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Dec 2017 00:18:09 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Dec 2017 00:18:09 +0000</lastBuildDate>
+    <link>http://blog.fferegrino.org/</link>
+    <atom:link href="http://blog.fferegrino.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jan 2018 07:02:06 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2018 07:02:06 +0000</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Gol, error y figura 2017</title>
+        <description>&lt;p&gt;Un año nuevo diferente, muy especial. Tiempo para “reflexionar”, ocupo este día de celebración.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-gol&quot;&gt;El gol&lt;/h3&gt;
+&lt;p&gt;Definitivamente fue el haber conseguido la beca para venir a estudiar a Escocia, el plan que originalmente tuve que retrasar en 2016 por fin se cumplió y hoy escribo esto desde la ciudad de Glasgow.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-error&quot;&gt;El error&lt;/h3&gt;
+&lt;p&gt;No haberme preparado más antes de venir a estudiar acá… no porque sea complicado, sino porque pude haber aprovechado mejor mi tiempo para aprender algunas de las cosas que tuve que aprender estando acá.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-figura&quot;&gt;La figura&lt;/h3&gt;
+&lt;p&gt;Nuevamente sería injusto mencionar a solo una figura. En este proceso hubieron bastantes, comenzando nuevamente por mi familia, tanto mis padres y hermano como primos y tíos, sin ellos definitivamente no estaría acá. Y ni hablar de mis amigos, a los cuales extraño mucho y me dieron muchas muestras de ánimo. Y figuras también la gente de Heurística que siempre me han apoyado.&lt;/p&gt;
+
+&lt;h3 id=&quot;lo-negro&quot;&gt;Lo negro&lt;/h3&gt;
+&lt;p&gt;Nuevamente nos fuimos en limpio este año, las cosas malas siempre pasan pero nada terrible ocurrió este año.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-luz&quot;&gt;La luz&lt;/h3&gt;
+&lt;p&gt;Haber conocido a nuevas personas, unos son mis nuevos amigos otros… pues digamos apenas las conozco; haber conocido a estas personas me hicieron finalmente convencerme de que hay gente buena en todos lados. Otra cosa que pude cumplir fue haber conocido finalmente Italia y, algo relacionado con la escuela, haber aprendido Python por fin.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-sombra&quot;&gt;La sombra&lt;/h3&gt;
+&lt;p&gt;No haber mantenido la inercia de publicar aún cuando llegué a Glasgow y haber descuidado el blog, en mi defensa podría decir que la maestría me consume mucho tiempo aunque esto sería una mentira. Otra cosa que no me gustó haber hecho es dejar en pausa muchas cosas, pero en mi defensa podría decir que esto era totalmente necesario.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-promesa&quot;&gt;La promesa&lt;/h3&gt;
+&lt;p&gt;Me voy a enfocar en:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Terminar la maestría y buscar crecer aún más en el ámbito profesional,&lt;/li&gt;
+  &lt;li&gt;Seguir publicando en YouTube y en el blog,&lt;/li&gt;
+  &lt;li&gt;Apreciar más a mis amigos, lo poco que se pueda desde acá y lo mucho que se pueda cuando esto termine&lt;/li&gt;
+  &lt;li&gt;Viajar un poquito más&lt;/li&gt;
+  &lt;li&gt;Conseguir un Nintendo Switch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;el-gol-en-serio&quot;&gt;El gol (en serio)&lt;/h3&gt;
+&lt;p&gt;Dado que el América no me dió una sola alegría, me veo obligado a elegir este como el gol del año:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/G8igC7O1P4U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2017 21:00:00 +0000</pubDate>
+        <link>http://blog.fferegrino.org/gol-error-figura-2017/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/gol-error-figura-2017/</guid>
+        
+        
+        <category>milestone</category>
+        
+      </item>
     
       <item>
         <title>Sponsio Academica</title>
         <description>&lt;p&gt;Ego in Universitate Glasguensi discipulus sancte polliceor me Senatui Academico par iturum ita ut quae ab eo secundum leges academiae praescribuntur praestem et animadversioni eius reverenter me subiciam; ipsius academiae dignitatem atque salutem quantum in mefuerit per reliquam vitam procuraturum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Oct 2017 00:15:00 +0100</pubDate>
-        <link>http://localhost:4000/sponsio-academica/</link>
-        <guid isPermaLink="true">http://localhost:4000/sponsio-academica/</guid>
+        <link>http://blog.fferegrino.org/sponsio-academica/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/sponsio-academica/</guid>
         
         
         <category>escuela</category>
@@ -42,8 +88,8 @@
 &lt;p&gt;Continuar preparándome y manteniéndome competitivo, en el desempeño de mi profesión.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Apr 2017 00:15:00 +0100</pubDate>
-        <link>http://localhost:4000/si-protesto/</link>
-        <guid isPermaLink="true">http://localhost:4000/si-protesto/</guid>
+        <link>http://blog.fferegrino.org/si-protesto/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/si-protesto/</guid>
         
         
         <category>escuela</category>
@@ -93,8 +139,8 @@
 &lt;p&gt;Se despide de usted, Feregrino.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Feb 2017 23:15:00 +0000</pubDate>
-        <link>http://localhost:4000/al-profesor-feregrino/</link>
-        <guid isPermaLink="true">http://localhost:4000/al-profesor-feregrino/</guid>
+        <link>http://blog.fferegrino.org/al-profesor-feregrino/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/al-profesor-feregrino/</guid>
         
         
         <category>escuela</category>
@@ -145,8 +191,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Dec 2016 21:00:00 +0000</pubDate>
-        <link>http://localhost:4000/gol-error-figura-2016/</link>
-        <guid isPermaLink="true">http://localhost:4000/gol-error-figura-2016/</guid>
+        <link>http://blog.fferegrino.org/gol-error-figura-2016/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/gol-error-figura-2016/</guid>
         
         
         <category>milestone</category>
@@ -204,8 +250,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 30 Dec 2015 21:00:00 +0000</pubDate>
-        <link>http://localhost:4000/gol-error-figura-2015/</link>
-        <guid isPermaLink="true">http://localhost:4000/gol-error-figura-2015/</guid>
+        <link>http://blog.fferegrino.org/gol-error-figura-2015/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/gol-error-figura-2015/</guid>
         
         
         <category>milestone</category>
@@ -243,8 +289,8 @@
 &lt;p&gt;Al fin se terminó, se acabó la universidad y a pesar de ello &lt;a href=&quot;/no-me-siento-ingeniero&quot;&gt;no me siento ingeniero&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Nov 2015 19:16:54 +0000</pubDate>
-        <link>http://localhost:4000/de-upiita-a-escom/</link>
-        <guid isPermaLink="true">http://localhost:4000/de-upiita-a-escom/</guid>
+        <link>http://blog.fferegrino.org/de-upiita-a-escom/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/de-upiita-a-escom/</guid>
         
         
         <category>escuela</category>
@@ -278,8 +324,8 @@ Fue un periodo de gracia enorme, no cabía en mi mismo. En la escuela nadie me p
 &lt;p&gt;En pocas palabras: sé que tengo mucho que ofrecer pero acá parece ser que no lo quieren. Tan parecido a mis años de joven enamorado. En fin.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Sep 2015 20:16:54 +0100</pubDate>
-        <link>http://localhost:4000/un-no-por-respuesta/</link>
-        <guid isPermaLink="true">http://localhost:4000/un-no-por-respuesta/</guid>
+        <link>http://blog.fferegrino.org/un-no-por-respuesta/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/un-no-por-respuesta/</guid>
         
         
         <category>trabajo</category>
@@ -321,8 +367,8 @@ En fin, el papel ahí está* no voy a renegar de él porque bastante ayuda y al 
 &lt;p&gt;También quisiera señalar que una vez reflexionando, me he dado cuenta de que en realidad sí es un gran logro haberme convertido en ingeniero, ya que esto me permitirá contribuir a mejorar la calidad de la educación.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Jul 2015 20:16:54 +0100</pubDate>
-        <link>http://localhost:4000/no-me-siento-ingeniero/</link>
-        <guid isPermaLink="true">http://localhost:4000/no-me-siento-ingeniero/</guid>
+        <link>http://blog.fferegrino.org/no-me-siento-ingeniero/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/no-me-siento-ingeniero/</guid>
         
         
         <category>escuela</category>
@@ -342,30 +388,8 @@ En fin, el papel ahí está* no voy a renegar de él porque bastante ayuda y al 
 &lt;p&gt;Cuarto: Libros, vídeos, podcasts, gente del internet, gente famosa y demás que jamás leerán esto.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Jul 2015 22:15:00 +0100</pubDate>
-        <link>http://localhost:4000/agradecimientos-tt/</link>
-        <guid isPermaLink="true">http://localhost:4000/agradecimientos-tt/</guid>
-        
-        
-        <category>escuela</category>
-        
-        <category>milestone</category>
-        
-      </item>
-    
-      <item>
-        <title>¡Estoy vivo!</title>
-        <description>&lt;p&gt;Escribo esto unas horas después de haber dado uno de los pasos más esperados de mi vida: acabo de presentar y defender algo muy parecido a una tésis de licenciatura (que en la ESCOM se llama Trabajo Terminal), fue todo un éxito a pesar de que improvisamos un poco durante la presentación. Todo fue mejor de lo que esperaba, llegaron algunos cuantos buenos amigos, sacamos 10 y una nominación para presentar el trabajo en una expo, como sea, no importan mucho esos últimos dos detalles detalles, al menos así lo creo. Lo mejor fue ver la conclusión de algo que comencé anhelando pero que al final llegué hasta odiarlo, explicaré en unos cuantos post más.&lt;/p&gt;
-
-&lt;p&gt;El título del post, a pesar de sonar muy dramático, refleja totalmente mi sentir y es que hoy vuelvo a estar vivo, puesto que mi paso por la universidad se estaba haciendo eterno, los 5 años que tenía planeados para hacer la carrera se convirtieron en 6 entre flojera, trabajo y el cambio de escuela. Pero al fin terminó.&lt;/p&gt;
-
-&lt;p&gt;Respecto a este blog: me propuse iniciar uno nuevo, desde cero. Pero este no es, en este espero escribir cosas un no-técnicas y una que otra cosa que se me ocurra. Siempre he querido expresarme más allá de posts en Facebook y acá pretendo hacerlo.&lt;/p&gt;
-
-&lt;p&gt;Por último y respecto a este blog: No sé nada de Jekyll, por eso es que se ve tan “default” al momento de publicar esta entrada, confío en que irá mejorando al paso del tiempo, no es mi costumbre presentar cosas sin terminar o de baja calidad, pero parte de mi proceso de revivir era publicar esta entrada apenas terminara el TT.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Jul 2015 20:16:54 +0100</pubDate>
-        <link>http://localhost:4000/estoy-vivo/</link>
-        <guid isPermaLink="true">http://localhost:4000/estoy-vivo/</guid>
+        <link>http://blog.fferegrino.org/agradecimientos-tt/</link>
+        <guid isPermaLink="true">http://blog.fferegrino.org/agradecimientos-tt/</guid>
         
         
         <category>escuela</category>

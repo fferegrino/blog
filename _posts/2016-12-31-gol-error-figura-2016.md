@@ -3,7 +3,7 @@ layout: post
 title: Gol, error y figura 2016
 date: 2016-12-31 21:00:00
 categories: milestone
-author: Antonio Feregrino Bolaños
+author: Antonio Feregrino
 excerpt: Es un hecho&#58; para mi eso del año nuevo es solo un día más... nada especial pasa, pero en lo particular a mi me gustan este tipo de resúmenes anuales, solo que esta vez quiero hacerlo de manera diferente, así que este año les traigo mi "Gol, error y figura" del 2016.
 ---  
 Es un hecho&#58; para mi eso del año nuevo es solo un día más... nada especial pasa, pero en lo particular a mi me gustan este tipo de resúmenes anuales, así que fiel a la "tradición" les traigo mi "Gol, error y figura" del 2016.

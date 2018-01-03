@@ -3,7 +3,7 @@ layout: post
 title: De UPIITA a ESCOM
 date: 2015-11-06 19:16:54
 categories: escuela
-author: Antonio Feregrino Bolaños
+author: Antonio Feregrino
 description: En respuesta a varios cuestionamientos que se me han hecho por la desicion que tomé hace ya casi un año de cambiarme de carrera, he decidido hacer este post, para compartir mis motivos y las impresiones que me ha dejado mi nueva escuela
  computadora.
 ---

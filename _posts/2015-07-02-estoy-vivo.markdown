@@ -3,7 +3,7 @@ layout: post
 title:  ¡Estoy vivo!
 date:   2015-07-02 19:16:54
 categories: escuela milestone
-author: Antonio Feregrino Bolaños
+author: Antonio Feregrino
 
 description: "Primer post del blog"
 excerpt: "Escribo esto unas horas después de haber dado uno de los pasos más esperados de mi vida: acabo de presentar y defender algo muy parecido a una téisis de licenciatura."

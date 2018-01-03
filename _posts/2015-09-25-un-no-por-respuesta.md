@@ -3,7 +3,7 @@ layout: post
 title: Un no por respuesta
 date: 2015-09-25 19:16:54
 categories: trabajo
-author: Antonio Feregrino Bolaños
+author: Antonio Feregrino
 description: No he de negarlo, estaba extasiado de poder hacer cosas que se notaran y no se borraran cada 6 meses que formateaba mi computadora.
 excerpt: No he de negarlo, estaba extasiado de poder hacer cosas que se notaran y no se borraran cada 6 meses que formateaba mi computadora.
 ---

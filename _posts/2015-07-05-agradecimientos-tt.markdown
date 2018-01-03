@@ -3,7 +3,7 @@ layout: post
 title:  Agradecimientos
 date:   2015-07-05 21:15:00
 categories: escuela milestone
-author: Antonio Feregrino Bolaños
+author: Antonio Feregrino
 description: "Agradecimientos que estarán escritos en el trabajo escrito del trabajo terminal"
 excerpt: "El texto siguiente pertenece mis agradecimientos escritos en el trabajo de titulación de la universidad."
 ---
